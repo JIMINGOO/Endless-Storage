@@ -12,11 +12,6 @@ Create lists with a dash:
 - item 2
 - item 3
 
-'''
-use back ticks to
-create a block of code
-'''
-
 ### Code
 
 ### Tables
