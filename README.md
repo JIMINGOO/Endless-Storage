@@ -5,8 +5,6 @@
 안녕하세요.
 구지민입니다. 
 
-Use an asterisk mark to provide emphasis, such as italics or bold.
-
 Create lists with a dash:
 - item 1
 - item 2
