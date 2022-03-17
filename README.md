@@ -2,7 +2,7 @@
 
 
 ## 고령친화 도시 소개
-Click [here] : http://afc.bswdi.re.kr/Main.do
+Click [here](http://afc.bswdi.re.kr/Main.do)
 
 
 
