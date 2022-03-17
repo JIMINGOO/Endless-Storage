@@ -7,7 +7,9 @@
 
 
 ## 고령친화 조성의 필요성
-- (http://afc.bswdi.re.kr/Page.do?code=C101&menu=1)
+
+Click [here] [id]
+[id] : http://afc.bswdi.re.kr/Page.do?code=C101&menu=1
 
 ### 급속한 인구 고령화
 ### 베이비부머 세대의 본격 은퇴 및 노인인구의 증가에 대비
