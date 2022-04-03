@@ -7,7 +7,6 @@
 >> **고령자들이 지역 사회에 능동적으로 참여할 수 있게 하는 도시**  
 
 ---
----
 
 ## 고령친화 조성의 필요성 [Link](http://afc.bswdi.re.kr/Page.do?code=C101&menu=1)  
 
@@ -20,18 +19,14 @@
 03 | 모든 시민이 체감하는 노인복지계획 필요
 
 ---
----
 
 ## 부산시 어르신 맞춤형 데이터
 
-> **[구군 노인일자리 사업 현황]
-(https://data.busan.go.kr/dataSet/detail.nm?contentId=10&publicdatapk=15034025)**
+> **[구군 노인일자리 사업 현황](https://data.busan.go.kr/dataSet/detail.nm?contentId=10&publicdatapk=15034025)**
 
 
-> **[노인 급식기관 현황]
-(https://data.busan.go.kr/dataSet/detail.nm?contentId=10&publicdatapk=3076438)**
+> **[노인 급식기관 현황](https://data.busan.go.kr/dataSet/detail.nm?contentId=10&publicdatapk=3076438)**
 
 
-> **[구군 정보화교육 정보]
-(https://data.busan.go.kr/dataSet/detail.nm?contentId=10&publicdatapk=15034019)**
+> **[구군 정보화교육 정보](https://data.busan.go.kr/dataSet/detail.nm?contentId=10&publicdatapk=15034019)**
 
